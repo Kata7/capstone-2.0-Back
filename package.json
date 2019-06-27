@@ -19,5 +19,13 @@
   "homepage": "https://github.com/Kata7/capstone-2.0-Back#readme",
   "devDependencies": {
     "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "pg": "^7.11.0",
+    "sequelize": "^5.8.12",
+    "sequelize-cli": "^5.5.0"
   }
 }
